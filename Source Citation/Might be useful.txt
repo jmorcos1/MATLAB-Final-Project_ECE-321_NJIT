@@ -1,0 +1,2 @@
+1.)	MATLAB Communications Toolbox
+2.)	MATLAB function: smoothdata()

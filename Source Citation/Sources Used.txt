@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------------------------------------
+						SOURCE CITATION	
+------------------------------------------------------------------------------------------------------------------------
+1.)	Laplacian random number generator
+	version 1.0.0.0 (513 Bytes) by Elvis Chen
+Elvis Chen (2020). Laplacian random number generator
+(https://www.mathworks.com/matlabcentral/fileexchange/13705-laplacian-random-number-generator),
+MATLAB Central File Exchange. Retrieved July 17, 2020.
+
+2.)	Arrow3
+	version 5.18 (414 KB) by Tom Davis
+Tom Davis (2020). Arrow3 (https://www.mathworks.com/matlabcentral/fileexchange/14056-arrow3),
+MATLAB Central File Exchange. Retrieved July 18, 2020.
+
+3.)	M. J. Roberts - 2/18/07
+	A-1: Web Appendix A - Introduction toMATLAB
+Roberts, Michael J., Dr. Signals and systems: analysis using transform methods and MATLAB / Michael J. Roberts.—2nd ed.
+http://web.eecs.utk.edu/~mjr/WebAppendices/A-MATLAB.pdf
+
+4.)	Introduction to MATLAB: Part I 
+https://centers.njit.edu/introphysics/sites/introphysics/files/Introduction%20to%20MATLAB%20Part%20I_0.pdf
+
+5.)	Random Numbers from Normal Distribution with Specific Mean and Variance
+https://www.mathworks.com/help/matlab/math/random-numbers-with-specific-mean-and-variance.html
+
+6.)	mathworks.com
+
+7.)	https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/sampling-distribution-mean/v/central-limit-theorem
+
+8.)	https://en.wikipedia.org/wiki/Laplace_distribution
+
+
